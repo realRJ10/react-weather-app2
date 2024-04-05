@@ -8,6 +8,7 @@ export default function App() {
         <a
           href="https://github.com/realRJ10/react-weather-app2"
           target="_blank"
+          rel="noreferrer"
         >
           This project
         </a>{" "}
